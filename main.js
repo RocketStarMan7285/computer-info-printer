@@ -1,0 +1,3 @@
+// main source code file to print system info (will probably enforce use of ES modules)
+
+console.log("System Information:") // SUCCESS: will only print this for now...
